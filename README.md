@@ -1,1 +1,1 @@
-# Java-Shool-Project
+# Java-School-Project
